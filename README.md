@@ -9,6 +9,7 @@
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br>
 </p>
 
+<br>
 
 I'm currently a student at Galgotias University and aspiring to become a Full-Stack Developer. I've already got some programming skills in different programming languages. I'm quite a procrastinator but when it comes to work I'm a perfectionist.
 I love working with Linux and open-source software,
@@ -20,7 +21,12 @@ I like to write the easiest understandable code
 Good programmers write code that humans can understand `"`***
 
 <br>
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Yxsh-xdityx&show_icons=true&theme=transparent"/>
 <br>
-<img align="left" width="47%" src="https://streak-stats.demolab.com/?user=Yxsh-xdityx&theme=transparent)](https://git.io/streak-stats&theme=transparent"/>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Yxsh-xdityx&show_icons=true&theme=transparent"/>
+
+<br>
+
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yxsh-xdityx&layout=compact&theme=transparent"/>
+
+<br>
