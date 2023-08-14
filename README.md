@@ -10,15 +10,13 @@
 <img align="" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img align="" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br>
+<br>
 </p>
 
 <p align="justify">
-I'm currently a student at Galgotias University and aspiring to become a Full-Stack Developer. I've already got some programming skills in different programming languages. I'm quite a procrastinator but when it comes to work I'm a perfectionist.
+I'm currently a student at Galgotias University and aspiring to become a Developer. I've got some programming skills in different programming languages, And when it comes to work I'm a perfectionist.
 I love working with Linux and open-source software,
-I love to mess around and learn from new technology especially new game ideas. 
+I love to mess around and learn from new technology especially new ideas. 
 I like to write the easiest understandable code 
  
 ***Just like `Martin Fowler` said:
