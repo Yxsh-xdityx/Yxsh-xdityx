@@ -3,7 +3,7 @@
        alt="@"></a>
 </div>
 
-# Hey, I'm { Yash } <a href= "https://www.github.com/Yxsh-xdityx"> <img src="https://camo.githubusercontent.com/72d61c65a0fdf8444f4f889345e7718682bd858cef9dfba9d56b5e0e9e2ce975/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5a65726f446973636f726426636f6c6f723d726564" width="140" height="22" />
+# Hey, I'm { Yash } <a href= "https://www.github.com/yxsh00"> <img src="https://camo.githubusercontent.com/72d61c65a0fdf8444f4f889345e7718682bd858cef9dfba9d56b5e0e9e2ce975/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5a65726f446973636f726426636f6c6f723d726564" width="140" height="22" />
 
 <p align="justify">
 <img align="" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -25,7 +25,7 @@ Good programmers write code that humans can understand `"`***
 </p>
 
 <p align="justify">
-<a><img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=Yxsh-xdityx&show_icons=true&theme=transparent"/></a>
-<a><img align="" width="50%" src="https://streak-stats.demolab.com/?user=Yxsh-xdityx&theme=transparent)](https://git.io/streak-stats&theme=transparent"/></a>
-<a><img align="" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yxsh-xdityx&layout=compact&theme=transparent"/></a>
+<a><img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=yxsh00&show_icons=true&theme=transparent"/></a>
+<a><img align="" width="50%" src="https://streak-stats.demolab.com/?user=yxsh00&theme=transparent)](https://git.io/streak-stats&theme=transparent"/></a>
+<a><img align="" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsh00 &layout=compact&theme=transparent"/></a>
 </p>
