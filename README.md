@@ -27,5 +27,5 @@ Good programmers write code that humans can understand `"`***
 <p align="justify">
 <a><img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=yxsh00&show_icons=true&theme=transparent"/></a>
 <a><img align="" width="50%" src="https://streak-stats.demolab.com/?user=yxsh00&theme=transparent)](https://git.io/streak-stats&theme=transparent"/></a>
-<a><img align="" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsh00 &layout=compact&theme=transparent"/></a>
+<a><img align="" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsh00&layout=compact&theme=transparent"/></a>
 </p>
